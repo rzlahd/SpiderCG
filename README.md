@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dinorstudio@gmail.com
-
-- [youtube](https://www.youtube.com/channel/UCt6j4fASWqqvlh3yCfIjz4Q)
-- [youtube 2](https://www.youtube.com/channel/UC4AdeE8BL6UKt1nMDjvR7RQ)
+- [bitstruct](https://www.youtube.com/channel/UCt6j4fASWqqvlh3yCfIjz4Q)
+- [pulusdev](https://www.youtube.com/channel/UC4AdeE8BL6UKt1nMDjvR7RQ)
 
 <!---
 SpiderCG/SpiderCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
